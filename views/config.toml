@@ -1,0 +1,4 @@
+[server]
+runOnSave = true
+maxUploadSize = 200
+browserTimeout = 300

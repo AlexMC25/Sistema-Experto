@@ -1,0 +1,172 @@
+{
+    "productos_simples": {
+        "1": {
+            "nombre": "UREA 46%",
+            "Formula": "46%N",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Nitrógeno. Granulada y Prilada"
+        },
+        "2": {
+            "nombre": "Nitrato de Amonio",
+            "Formula": "34%N",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Nitrógeno. Prilada"
+        },
+        "3": {
+            "nombre": "Sulfato de Amonio",
+            "Formula": "21%N-24S",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Nitrógeno y Azufre. Granulado y Standard"
+        },
+        "4": {
+            "nombre": "Fosfato Diamónico (DAP)",
+            "Formula": "18%N - 46%P2O5",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Fósforo y Nitrógeno. Granulado"
+        },
+        "5": {
+            "nombre": "Super Fosfato Triple",
+            "Formula": "46%P2O5",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Fósforo. Granulado"
+        },
+        "6": {
+            "nombre": "Muriato de Potasio",
+            "Formula": "60%K2O",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Potasio. Granulado y Standard Rojo y Blanco"
+        },
+        "7": {
+            "nombre": "Sulfato de Potasio",
+            "Formula": "50%K2O–18%S",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Potasio y Azufre. Granulado"
+        },
+        "8": {
+            "nombre": "Nitrato de Potasio",
+            "Formula": "13.5%-46%K2O",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Potasio y Nitrógeno. Granulado"
+        },
+        "9": {
+            "nombre": "Kieserite – Sulfato de Magnesio",
+            "Formula": "20%S–26%MgO",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Magnesio y Azufre. Granulado"
+        },
+        "10": {
+            "nombre": "Sulfato de Zinc Monohidratado",
+            "Formula": "17%S-33.5%Zn",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Zinc y Azufre. Granulado"
+        },
+        "11": {
+            "nombre": "Ferpaboro",
+            "Formula": "10%Boro",
+            "Presentacion kg": 50,
+            "Características": "Fuente de Boro. Granulado"
+        },
+        "12": {
+            "nombre": "8-20-20",
+            "Formula": "8%N-20%P2O5-20%K2O",
+            "Presentacion kg": 50,
+            "Características": "Mezcla física de NPK. Granulado"
+        }
+    },
+    "productos_ferpamix": {
+        "1": {
+            "nombre": "Ferpagrow",
+            "Formula": "16N-4P205-21K20-6S-4MgO-0,02Zn-0,01B",
+            "Presentacion kg": 50,
+            "Características": "Fórmula balanceada con 7 macro y microelementos que ayudan a corregir deficiencias nutricionales de los cultivos. Activa y desarrolla las yemas vegetativas. Estimula el crecimiento de las plantas"
+        },
+        "2": {
+            "nombre": "FERPAMIX NK Active",
+            "Formula": "20N-0P2O5-27K20-5S",
+            "Presentacion kg": 50,
+            "Características": "Fórmula efectiva para el desarrollo de la planta, en especial la emisión foliar. Mejora peso y grosor de frutos y granos. Fuente de Nitrógeno eficiente"
+        },
+        "3": {
+            "nombre": "FERPAMIX Cacao Producción",
+            "Formula": "16N-3P2O5-26K2O-2CaO-1MgO",
+            "Presentacion kg": 50,
+            "Características": "Mejora el desarrollo de raíces y de la planta de cacao, especialmente en la etapa de producción. Su alto contenido de Potasio ayuda al llenado y peso de la mazorca"
+        }
+    },
+    "productos_ferpamix_LC": {
+        "1": {
+            "nombre": "FERPAMIX Todo Cultivo",
+            "Formula": "11N-2P2O5-13K2O-11S-3CaO-8MgO",
+            "Presentacion kg": 50,
+            "Características": "Aporta con los nutrientes básicos necesarios para todos los cultivos. Contiene trazas de microelementos que ayudan al desarrollo de la planta. Elaborado con complejo nutricional Radical PAC"
+        },
+        "2": {
+            "nombre": "FERPAMIX Desarrollo LC",
+            "Formula": "16N-0P2O5-13K2O-8S-8.5CaO-3MgO",
+            "Presentacion kg": 50,
+            "Características": "Aporta con los nutrientes básicos necesarios para todos los cultivos. Contiene trazas de microelementos que ayudan al desarrollo de la planta. Fuente de Nitrógeno eficiente Tecnología Active y complejo nutricional RADICAL PAC"
+        },
+        "3": {
+            "nombre": "FERPAMIX Cacao Producción",
+            "Formula": "16N-3P2O5-26K2O-2CaO-1MgO",
+            "Presentacion kg": 50,
+            "Características": "Mejora el desarrollo de raíces y de la planta de cacao, especialmente en la etapa de producción. Su alto contenido de Potasio ayuda al llenado y peso de la mazorca"
+        },
+        "4": {
+            "nombre": "FERPAMIX PRIME",
+            "Formula": "7N-20P2O5-7K2O-3S-12CaO-5MgO",
+            "Presentacion kg": 50,
+            "Características": "Aporta con los nutrientes básicos necesarios para todos los cultivos. Contiene trazas de microelementos que ayudan al desarrollo de la planta. Elaborado con complejo nutricional Radical PAC"
+        },
+        "5": {
+            "nombre": "FERPAMIX Cacao Producción LC",
+            "Formula": "11N-2P2O5-13K2O-11S-3CaO-8MgO",
+            "Presentacion kg": 50,
+            "Características": "Aporta con los nutrientes básicos necesarios para el cultivo de cacao en su etapa de producción.Contiene trazas de micronutrientes que ayudan con el desarrollo de la planta.Elaborado con complejo nutricional Radical PAC"
+        }
+    },
+    "productos_especializados": {
+        "1": {
+            "nombre": "Nitrocan 27",
+            "Formula": "27N-6CaO-4MgO",
+            "Presentacion kg": 50,
+            "Características": "Combinación de dos fuentes de Nitrógeno: nítrico y amoniacal.Baja acidificación en comparación a otras fuentes de Nitrógeno.Mejora la estructura de la planta y el desarrollo de la clorofila"
+        },
+        "2": {
+            "nombre": "Agritec 19",
+            "Formula": "19N-9P2O5-19K2O",
+            "Presentacion kg": 50,
+            "Características": "NPK químico/compuesto.Fuente de Fósforo más disponible para las plantas. Bajo en metales pesados, como el Cadmio"
+        },
+        "3": {
+            "nombre": "Agritec 16",
+            "Formula": "16N-16P2O5-16K2O-1S",
+            "Presentacion kg": 50,
+            "Características": "Balance de NPK"
+        },
+        "4": {
+            "nombre": "Agritec 8-20-30",
+            "Formula": "8N-20P2O5-30K2O",
+            "Presentacion kg": 50,
+            "Características": "NPK de alta tecnología. Ayuda al desarrollo e incremento de raíces. Mejora el grosor de los tallos. Aporta al llenado y peso de los frutos"
+        },
+        "5": {
+            "nombre": "Nitrofos 20+20+2S",
+            "Formula": "20N-20P2O5-2S",
+            "Presentacion kg": 50,
+            "Características": "Nitrofosfato de alta asimilación para aplicación directa o en mezclas. Ideal para la siembra"
+        },
+        "6": {
+            "nombre": "NPK Blue",
+            "Formula": "12N-12P2O5-17K2O-9.8S-2MgO+EM",
+            "Presentacion kg": 50,
+            "Características": "Fórmula completa con macro y micronutrientes en un solo gránulo. Alto contenido de Fósforo, que ayuda el enraizamiento. Ideal para la siembra. Puede utilizarse en aplicación directa al suelo o en mezclas"
+        },
+        "7": {
+            "nombre": "NPK Green",
+            "Formula": "5N-5P2O5-20K2O-10S-2MgO+EM",
+            "Presentacion kg": 50,
+            "Características": "Fórmula completa con macro y micronutrientes en un solo gránulo. Alto contenido de Potasio bajo en cloruro, ideal para el llenado de frutos y granos. Puede utilizarse en aplicación directa al suelo o en mezclas"
+        }
+    }
+}
