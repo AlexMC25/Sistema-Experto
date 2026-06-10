@@ -2,3 +2,4 @@ streamlit_authenticator==0.3.2
 streamlit_option_menu==0.3.13
 plotly==5.23.0
 pymongo==4.8.0
+experta==1.9.4
