@@ -1,6 +1,6 @@
 
 # Importar Streamlit
-import mysql.connector
+# import mysql.connector
 import streamlit as st
 from experta import Fact, Rule, KnowledgeEngine, Field, P ,MATCH,watch
 import pandas as pd
